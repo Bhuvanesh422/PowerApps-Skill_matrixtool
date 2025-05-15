@@ -31,8 +31,15 @@ The **Skill Matrix Management App** is a custom Power Apps solution designed to 
 
 ## 📸 Screenshots
 
-### 🔹 Data Update Screen
-![Data Update](./screenshots/Data_Update.png)
+### 🔹 Skill Dashboard
+![Skill Dashboard](./screenshots/Skill_Dashboard.png)
+
+### 🔹 Skill Entry
+![Skill Entry](./screenshots/skill-entry.png)
+
+### 🔹 L4 Skill Rating
+![L4 Skill Rating](./screenshots/L4_Skill_Rating.png)
+
 
 ## 📦 Business Impact
 This app enabled faster tracking of skill readiness across teams and streamlined training compliance. The automated reminders helped reduce overdue training by eliminating manual follow-ups.
